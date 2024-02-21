@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayl-amber&label=Profile%20views&color=0e75b6&style=flat" alt="tayl-amber" /> </p>
 
-- 🌱 I’m currently learning **OOP in c++, git, html**
+- 🌱 I’m currently learning **OOP in c++, html**
 
 - 💬 Ask me about **c,c++**
 
