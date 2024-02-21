@@ -25,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tayl-amber&show_icons=true&locale=en&layout=compact" alt="tayl-amber" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayl-amber&show_icons=true&locale=en" alt="tayl-amber" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tayl-amber&" alt="tayl-amber" /></p>
