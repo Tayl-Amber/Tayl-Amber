@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Tayl Amber</h1>
 <h3 align="center">A passionate Software Engineering Student from Pakistan</h3>
  
- <p align="center"> <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"/></p>
+ <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayl-amber&label=Profile%20views&color=0e75b6&style=flat" alt="tayl-amber" /> </p>
 
