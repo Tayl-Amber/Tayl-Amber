@@ -17,7 +17,7 @@
 <p align="left">
 
 <a href="https://discordapp.com/users/1172907058887147596" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1172907058887147596" height="30" width="40" /></a>
-<a href="https://twitter.com/@taylamber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@taylamber" height="30" width="40" /></a>
+<a href="https://twitter.com/Taylamber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@taylamber" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/tayl-amber-7482452b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tayl amber" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/taylamber352" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tayl amber" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tayl_amber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tayl_amber" height="30" width="40" /></a>
