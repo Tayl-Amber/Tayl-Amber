@@ -3,7 +3,7 @@
  
   <p align="center" height="250"> <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayl-amber&label=Profile%20views&color=0e75b6&style=flat" alt="tayl-amber" /> </p>
-<h1></h1>
+<hr>
 
 - 🌱 I’m currently learning **OOP in c++**
 
@@ -12,7 +12,7 @@
 - 📫 How to reach me **taylamber352@gmail.com**
 
 - ⚡ Fun fact **I'm Ambivert**
-<h1></h1>
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
