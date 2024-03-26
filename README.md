@@ -6,11 +6,13 @@
 <hr>
 
 - 🌱 I’m currently learning **OOP in C++, CSS, BOOTSTRAP**
-
+  
 - 💬 Ask me about **C, C++, HTML**
 
 - 📫 How to reach me **taylamber352@gmail.com**
-
+  
+- 🤍  Always up for collaboration.
+  
 - ⚡ Fun fact **I'm Ambivert**
 <hr>
 <h3 align="left">Connect with me:</h3>
