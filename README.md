@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayl-amber&label=Profile%20views&color=0e75b6&style=flat" alt="tayl-amber" /> </p>
 <hr>
 
-- 🌱 I’m currently learning **OOP in C++, CSS, BOOTSTRAP**
+- 🌱 I’m currently learning **OOP in C++, BOOTSTRAP**
   
-- 💬 Ask me about **C, C++, HTML**
+- 💬 Ask me about **C, C++, HTML, CSS**
 
 - 📫 How to reach me **taylamber352@gmail.com**
   
