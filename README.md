@@ -35,13 +35,13 @@
 </div>
 
  <hr/>
-
-
-</p>
-
-<h3 align="left">🛠️Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>   <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a></p>
-<h3 align="left">🔥My Stats: </h3>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,vscode,github,git,html,css,qt" />
+</div>
+<hr>
+<h3 align="center">🔥My Stats: </h3>
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Tayl-Amber&theme=highcontrast" alt="GitHub Streak" /></a>
 <!--  <a href="https://leetcode.com/Tayl_Amber/"><img width="40%" height="400px" src="https://leetcode.card.workers.dev/Tayl_Amber?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a> -->
 
