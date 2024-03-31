@@ -31,6 +31,6 @@
 <h3 align="left">🔥My Stats: </h3>
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Tayl-Amber&theme=highcontrast" alt="GitHub Streak" /></a>
 <!--  <a href="https://leetcode.com/Tayl_Amber/"><img width="40%" height="400px" src="https://leetcode.card.workers.dev/Tayl_Amber?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a> -->
-   
+
 <!--  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayl-amber&show_icons=true&locale=en" alt="tayl-amber" /></p>
  --><!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tayl-amber&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="tayl-amber" /></p> -->
