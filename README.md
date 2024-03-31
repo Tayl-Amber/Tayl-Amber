@@ -1,23 +1,44 @@
-<h1 align="center">
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=tayl-amber&label=Profile%20views&color=0e75b6&style=flat" alt="tayl-amber" /> </p>
+
+
 <h1 align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times&size=35&duration=4966&pause=1000&color=F4ECF7&center=true&vCenter=true&random=false&width=435&lines=Hey+There!%F0%9F%91%8B;+I'm+Tayl+Amber" alt="Typing SVG" /></a>
 </h1>
-</h1>
+<h3 align="center">A passionate Software Engineering Student from Pakistan</h3>
+
+<br/>
+
+<div align="center">
+   
+ 💬 Ask me about **C, C++, HTML, CSS**
+
+  🌱 I’m currently learning **OOP in C++, BOOTSTARP**
+  
+ 🤍  Feel free to connect. Always up for networking and collaboration.
+  
+ ⚡ Fun fact **C++: Where a semicolon can make all the difference in your program's functionality.**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="taylamber352@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+ <hr/>
 <h3 align="center">A passionate Software Engineering Student from Pakistan</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tayl-amber&label=Profile%20views&color=0e75b6&style=flat" alt="tayl-amber" /> </p>
-<hr>
 
-- 🌱 I’m currently learning **OOP in C++, BOOTSTRAP**
-  
-- 💬 Ask me about **C, C++, HTML, CSS**
 
-- 📫 How to reach me **taylamber352@gmail.com**
-  
-- 🤍  Always up for collaboration.
-  
-- ⚡ Fun fact **I'm Ambivert**
+
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
