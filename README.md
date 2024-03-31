@@ -41,9 +41,11 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,vscode,github,git,html,css,qt" />
 </div>
 <hr>
-<h3 align="center">🔥My Stats: </h3>
+<h2 align="center" font-size="60px">⚡ My-Stats ⚡</h2>
+<div align="center">
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Tayl-Amber&theme=highcontrast" alt="GitHub Streak" /></a>
+  <!--  <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=tayl-amber&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="tayl-amber" /></p>  -->
 <!--  <a href="https://leetcode.com/Tayl_Amber/"><img width="40%" height="400px" src="https://leetcode.card.workers.dev/Tayl_Amber?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a> -->
-
+</div>
 <!--  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tayl-amber&show_icons=true&locale=en" alt="tayl-amber" /></p>
- --><!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=tayl-amber&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="tayl-amber" /></p> -->
+
