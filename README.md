@@ -37,6 +37,9 @@
       <a href="https://www.leetcode.com/Tayl_Amber" target="_blank">
     <img src="https://img.shields.io/badge/Leetcode-333333?style=for-the-badge&logo=leetcode&logoColor=yellow" target="_blank" />
   </a>
+   <a href="https://www.hackerrank.com/taylamber352" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-121927?style=for-the-badge&logo=hackerrank&logoColor=white,green" target="_blank" />
+  </a>
 </div>
 
  <hr/>
