@@ -30,8 +30,13 @@
   <a href="https://discordapp.com/users/1172907058887147596" target="_blank">
      <img src="https://img.shields.io/badge/Discord-7289D7?style=for-the-badge&logo=Discord&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+   
    <a href="https://twitter.com/Taylamber" target="_blank">
      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank" />
+   </a>
+      <a href="https://www.leetcode.com/in/Tayl_Amber" target="_blank">
+    <img src="https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" target="_blank" />
+  </a>
 </div>
 
  <hr/>
