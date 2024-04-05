@@ -51,7 +51,7 @@
 <hr>
 <h2 align="center" font-size="60px">⚡ My-Stats ⚡</h2>
 <div align="center">
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Tayl-Amber&theme=highcontrast" alt="GitHub Streak" /></a>
   <!--  <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=tayl-amber&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="tayl-amber" /></p>  -->
 <!--  <a href="https://leetcode.com/Tayl_Amber/"><img width="40%" height="400px" src="https://leetcode.card.workers.dev/Tayl_Amber?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a> -->
 </div>
