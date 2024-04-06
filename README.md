@@ -30,8 +30,16 @@
   <a href="https://discordapp.com/users/1172907058887147596" target="_blank">
      <img src="https://img.shields.io/badge/Discord-7289D7?style=for-the-badge&logo=Discord&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+   
    <a href="https://twitter.com/Taylamber" target="_blank">
      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank" />
+   </a>
+      <a href="https://www.leetcode.com/Tayl_Amber" target="_blank">
+    <img src="https://img.shields.io/badge/Leetcode-333333?style=for-the-badge&logo=leetcode&logoColor=yellow" target="_blank" />
+  </a>
+   <a href="https://www.hackerrank.com/taylamber352" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-121927?style=for-the-badge&logo=hackerrank&logoColor=white,green" target="_blank" />
+  </a>
 </div>
 
  <hr/>
@@ -43,7 +51,7 @@
 <hr>
 <h2 align="center" font-size="60px">⚡ My-Stats ⚡</h2>
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Tayl-Amber&theme=highcontrast" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Tayl-Amber&theme=highcontrast" alt="GitHub Streak" /></a>
   <!--  <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=tayl-amber&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="tayl-amber" /></p>  -->
 <!--  <a href="https://leetcode.com/Tayl_Amber/"><img width="40%" height="400px" src="https://leetcode.card.workers.dev/Tayl_Amber?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a> -->
 </div>
