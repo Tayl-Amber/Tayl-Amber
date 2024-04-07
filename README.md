@@ -10,9 +10,10 @@
 
 <div align="center">
    
- 💬 Ask me about **C, C++, HTML, CSS**
 
-  🌱 I’m currently learning **OOP in C++, BOOTSTARP**
+  🌱 I’m currently learning **OOP in C++**
+
+   💬 Ask me about **C, C++, HTML, CSS, BOOTSTARP**
   
  🤍  Feel free to connect. Always up for networking and collaboration.
   
