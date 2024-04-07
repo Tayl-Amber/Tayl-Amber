@@ -46,7 +46,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,vscode,github,git,html,css,qt" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,vscode,github,git,html,css,bootstrap,qt" />
 </div>
 <hr>
 <h2 align="center" font-size="60px">⚡ My-Stats ⚡</h2>
