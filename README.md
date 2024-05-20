@@ -43,6 +43,9 @@
   <a href="https://discordapp.com/users/1182983931625222156" target="_blank">
      <img src="https://img.shields.io/badge/Discord-7289D7?style=for-the-badge&logo=Discord&logoColor=white" target="_blank" /> 
   </a>
+  <a href="https://tayl-amber.github.io/Portfolio/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white" target="_blank" /> 
+  </a>
 </div>
 
  <hr/>
