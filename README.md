@@ -11,7 +11,7 @@
 <div align="center">
    
 
-  🌱 I’m currently learning **OOP in C++**
+  🌱 Currently on a **Break**
 
    💬 Ask me about **C, C++, HTML, CSS, BOOTSTARP**
   
