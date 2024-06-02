@@ -13,7 +13,7 @@
 
   🌱 Currently on a **Break**
 
-   💬 Ask me about **C, C++, HTML, CSS, BOOTSTARP**
+   💬 Ask me about **C, C++, HTML, Python(basic), CSS, BOOTSTARP**
   
  🤍  Feel free to connect. Always up for networking and collaboration.
   
