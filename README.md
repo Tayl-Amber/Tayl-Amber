@@ -37,7 +37,7 @@
      <img src="https://img.shields.io/badge/kaggle-1DA1F2?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank" />
    </a>
     
-   <a href="https://www.hackerrank.com/taylamber352" target="_blank">
+   <a href="https://www.hackerrank.com/tayalamber" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-121927?style=for-the-badge&logo=hackerrank&logoColor=white,green" target="_blank" />
   </a>
   <a href="https://discordapp.com/users/1182983931625222156" target="_blank">
