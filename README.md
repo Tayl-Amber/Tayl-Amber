@@ -4,7 +4,7 @@
 <h1 align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times&size=35&duration=4966&pause=1000&color=F4ECF7&center=true&vCenter=true&random=false&width=435&lines=Hey+There!%F0%9F%91%8B;+I'm+Tayal+Amber!" alt="Typing SVG" /></a>
 </h1>
-<h3 align="center">A passionate Software Engineering Student from Pakistan</h3>
+<h3 align="center">A passionate Software Engineering Student</h3>
 
 <br/>
 
@@ -33,9 +33,7 @@
     <img src="https://img.shields.io/badge/Leetcode-333333?style=for-the-badge&logo=leetcode&logoColor=yellow" target="_blank" />
   </a>
   
-   <a href="https://www.kaggle.com/tayalamber" target="_blank">
-     <img src="https://img.shields.io/badge/kaggle-1DA1F2?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank" />
-   </a>
+
     
    <a href="https://www.hackerrank.com/tayalamber" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-121927?style=for-the-badge&logo=hackerrank&logoColor=white,green" target="_blank" />
